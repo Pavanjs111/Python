@@ -1,0 +1,9 @@
+s1={1,2,3,4,5,6,7,8,9,10}
+s2={6,7,8,9,10,11,12,13,14,15,16}
+s3={6,7,8,9,10,30,40,50}
+c=s1.difference(s2)
+b=s2.difference(s3)
+a=s3.difference(s1)
+print(a)
+print(b)
+print(c)

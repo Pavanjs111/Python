@@ -1,0 +1,10 @@
+a=10
+print(a,type(a))
+b=1.111
+print(b,type(b))
+c=1+7j
+print(c,type(c))
+d="ironman"
+print(d,type(d))
+t=True
+print(t,type(t))
